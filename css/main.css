@@ -175,7 +175,9 @@ nav {
     font-weight: 600;
     text-shadow: 1px 1px #A7A7A7; }
 	
-	
+.limargin li {
+	margin:2%;
+}
 	
 	.jumbotron-sub-index {
   background-color: #7CCCBD;
